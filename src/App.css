@@ -49,15 +49,8 @@ h1, h2, h3 {
 .myimage img{
    max-width: 100%;
    padding: 30px 10px;
-<<<<<<< HEAD
-   border-top: 1px solid white;
-   border-left: 1px solid white;
-  
-  
-=======
    border-left: 1px solid  white;
-   border-bottom: 1px solid  white;
->>>>>>> 7d3196367f1d8a86b82f4fd71f60577ffef281bd
+   border-top: 1px solid  white;
 }
 
 .about {
