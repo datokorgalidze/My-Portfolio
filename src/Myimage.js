@@ -1,3 +1,5 @@
+import React from 'react';
+
 import Myimage from './Myimages/myimage.jpg';
 
 function myimage(){

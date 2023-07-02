@@ -13,6 +13,7 @@
   },
   "scripts": {
     "homepage": "https://github.com/datokorgalidze/My-Portfolio.git",
+    "predeploy":"npa run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
