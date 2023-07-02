@@ -49,10 +49,15 @@ h1, h2, h3 {
 .myimage img{
    max-width: 100%;
    padding: 30px 10px;
+<<<<<<< HEAD
    border-top: 1px solid white;
    border-left: 1px solid white;
   
   
+=======
+   border-left: 1px solid  white;
+   border-bottom: 1px solid  white;
+>>>>>>> 7d3196367f1d8a86b82f4fd71f60577ffef281bd
 }
 
 .about {
@@ -149,11 +154,12 @@ h1, h2, h3 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: start;
   display: flex;
-  max-width: 250px;
+  max-width: 300px;
   max-height: 130px;
   border-bottom: 1px solid  white;
   border-top: 1px solid white;
   padding: 10px;
+  
 }
 
 
