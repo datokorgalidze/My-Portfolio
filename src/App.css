@@ -42,7 +42,7 @@ h1, h2, h3 {
 
 .myimage{
   display: flex;
-  width: 340px;
+  max-width: 340px;
   
   
 }

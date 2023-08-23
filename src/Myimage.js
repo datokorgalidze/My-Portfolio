@@ -8,7 +8,7 @@ function myimage(){
     <div className='about'> 
     <h2 className='title'>About </h2> 
           <p>
-            Hello i am Dato Krghalidze,I am very motivated and dedicated junior developer with a strong foundation in programming.
+            Hello i am Dato Krghalidze,I am very motivated and dedicated web developer with a strong foundation in programming.
             Passionate about creating efficient and user-friendly applications.
             Eager to collaborate with experienced developers, learn new technologies,
              and contribute to impactful projects.My goal is to contribute my skills and knowledge to help organizations achieve their digital objectives.

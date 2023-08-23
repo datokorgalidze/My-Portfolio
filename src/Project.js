@@ -1,6 +1,6 @@
 
 
-import Skillwill from './Myimages/Skillwill.png';
+import Skillwill from './Myimages/PortfolioImg.jpg';
 import Logo from './Myimages/Logo.png';
 import Calculaor from './Myimages/Calculator.jpg';
 import React from 'react';
@@ -32,14 +32,14 @@ function Project() {
     {
       title: "Bon hotel",
       imageSrc: Logo,
-      text: "This is one of my first projects with HTML/CSS, two pages, you can click (check rates) in the navigation menu",
+      text: "This is one of my first projects with HTML/CSS, two pages,",
       link: "https://datokorgalidze.github.io/bonhotelwebpage/index.html"
     },
     {
-      title: "skillwill",
+      title: "Portfolio",
       imageSrc:Skillwill,
-      text: "blog",
-      link: "https://datokorgalidze.github.io/skillwillweb/"
+      text: "Built on the WordPress platform,with custom html,css and php.",
+      link: "https://set-blocks.000webhostapp.com/"
     },
   ];
 
