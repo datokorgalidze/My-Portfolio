@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.5b2db4bb.css",
-    "main.js": "/My-Portfolio/static/js/main.88d9c885.js",
+    "main.css": "/My-Portfolio/static/css/main.476332df.css",
+    "main.js": "/My-Portfolio/static/js/main.ca8a5ca8.js",
     "static/js/787.48fbe5ec.chunk.js": "/My-Portfolio/static/js/787.48fbe5ec.chunk.js",
     "static/media/myimage.jpg": "/My-Portfolio/static/media/myimage.109e4e7e996f9861a33d.jpg",
     "static/media/PortfolioImg.jpg": "/My-Portfolio/static/media/PortfolioImg.20ddd986cabae95b0ecd.jpg",
     "static/media/Calculator.jpg": "/My-Portfolio/static/media/Calculator.86f19ebc8634c1dfb316.jpg",
-    "static/media/LinkedInImage.png": "/My-Portfolio/static/media/LinkedInImage.85d2fb6266fdfd210b1c.png",
+    "static/media/Travel.jpg": "/My-Portfolio/static/media/Travel.63c9d8c99e72d8a1a446.jpg",
+    "static/media/GitHubImage.gif": "/My-Portfolio/static/media/GitHubImage.f243bf32d59b4767cfde.gif",
+    "static/media/LinkedInImage.gif": "/My-Portfolio/static/media/LinkedInImage.b114e3bad775926d0b9a.gif",
     "static/media/Logo.png": "/My-Portfolio/static/media/Logo.6e842bc313fd2980a6c4.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.5b2db4bb.css.map": "/My-Portfolio/static/css/main.5b2db4bb.css.map",
-    "main.88d9c885.js.map": "/My-Portfolio/static/js/main.88d9c885.js.map",
+    "main.476332df.css.map": "/My-Portfolio/static/css/main.476332df.css.map",
+    "main.ca8a5ca8.js.map": "/My-Portfolio/static/js/main.ca8a5ca8.js.map",
     "787.48fbe5ec.chunk.js.map": "/My-Portfolio/static/js/787.48fbe5ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b2db4bb.css",
-    "static/js/main.88d9c885.js"
+    "static/css/main.476332df.css",
+    "static/js/main.ca8a5ca8.js"
   ]
 }
